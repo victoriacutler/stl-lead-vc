@@ -14,6 +14,7 @@ execute:
 library(tidyverse)
 library(janitor)
 library(dplyr)
+library(usethis)
 ```
 
 ```{r}
